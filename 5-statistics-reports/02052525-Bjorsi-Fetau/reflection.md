@@ -1,5 +1,6 @@
 #   #PERSONAL REFLECTION
 
+1.Refleciton
 After researching AI in software engineering, I realized how quickly technology is changing the software engineering industry. What surprised me most is how many developers and companies already use AI tools in their daily work.
 
 I think AI creates many opportunities for software engineers because it can help developers work faster and automate repetitive tasks. AI tools can improve productivity and make software development more efficient.
@@ -9,3 +10,12 @@ At the same time, I also have some concerns. Developers may become too dependent
 In my opinion, software engineers will continue to be important in the future. Skills such as critical thinking, creativity, communication, and system design cannot easily be replaced by AI. Developers must learn how to work together with AI instead of fearing it.
 
 This research changed my opinion because I now understand that AI is not simply replacing programmers. Instead, AI is changing the way software engineers work and creating new challenges and opportunities for the future.
+
+
+2.Reflection
+
+After reading about OverflowAI and AI-based search systems, I realized how much AI is changing the daily work of software developers. I think AI tools can make development faster and more efficient by helping programmers find solutions quickly.
+
+However, I also believe developers should continue learning and thinking independently instead of depending completely on AI-generated answers. Human problem-solving and critical thinking skills will still remain important in the future.
+
+This research helped me understand that AI is becoming a major part of software engineering and developer workflows.

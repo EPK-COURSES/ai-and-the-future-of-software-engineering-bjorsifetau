@@ -12,3 +12,13 @@ Another important point from the research is that software engineers still need 
 
 Overall, the research suggests that AI is transforming software engineering rather than completely replacing software engineers. Developers who learn how to work effectively with AI tools will likely have better opportunities in the future.
 
+
+2.Stack Overflow OverflowAI Research
+
+According to Park and Kim (2025), AI-based search systems are changing how developers interact with platforms such as Stack Overflow. The research focuses on OverflowAI and how AI tools affect user engagement and software engineering workflows.
+
+The study suggests that AI-assisted search can help developers find information faster and improve productivity during software development. Many developers now use AI systems to receive coding suggestions, explanations, and debugging assistance more efficiently.
+
+At the same time, the research also highlights concerns about the changing behavior of users on traditional developer platforms. If developers depend too much on AI-generated answers, participation in developer communities and knowledge sharing may decrease over time.
+
+This research demonstrates how AI is transforming software engineering practices and changing the way developers search for technical information and solve programming problems.

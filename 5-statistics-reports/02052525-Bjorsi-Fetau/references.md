@@ -1,1 +1,2 @@
-Kokol, P. (2024). The use of AI in software engineering: A synthetic knowledge synthesis of the recent research literature. Information, 15(6), 354.
+1.Kokol, P. (2024). The use of AI in software engineering: A synthetic knowledge synthesis of the recent research literature. Information, 15(6), 354.
+2.Park, S., & Kim, D. (2025). Impacts of AI-Based Search on User Engagement: Evidence from Stack Overflow’s OverflowAI.
