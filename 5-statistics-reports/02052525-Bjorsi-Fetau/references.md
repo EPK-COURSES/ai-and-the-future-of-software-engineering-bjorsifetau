@@ -1,3 +1,4 @@
 1.Kokol, P. (2024). The use of AI in software engineering: A synthetic knowledge synthesis of the recent research literature. Information, 15(6), 354.
 2.Park, S., & Kim, D. (2025). Impacts of AI-Based Search on User Engagement: Evidence from Stack Overflow’s OverflowAI.
 3.Weisz, J. D., Kumar, S. V., Muller, M., Browne, K. E., Goldberg, A., Heintze, K. E., & Bajpai, S. (2025, April). Examining the use and impact of an ai code assistant on developer productivity and experience in the enterprise. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-13).
+Adepoju, S. (2023). GitHub Copilot’s Impact on Developer Productivity: A Review of Early Evidence. International Journal of Scientific Research in Science and Technology, 10(4), 814-822.
