@@ -2,3 +2,4 @@ Vyhmeister, E., & G Castane, G. (2026). When Industry meets trustworthy AI: a sy
 Lee, J., Davari, H., Singh, J., & Pandhare, V. (2018). Industrial artificial intelligence for Industry 4.0-based manufacturing systems. Manufacturing Letters, 18, 20–23.
 Leutner, L. A., Leyendecker, L., Motz, M., Brandstätter, T. C., Heymann, H., & Schmitt, R. H. (2026). Framework for developing trustworthy industrial AI applications. Procedia CIRP, 138, 72–77.
 Zuberi, M. J. S., Laarabi, H., Smith, S., & Shehabi, A. (2026). Can AI be energy positive in cement manufacturing? Evaluating AI-driven efficiency through a first-order framework and case study. Energy and AI.
+Hakanen, T., Goriachev, V., & Tikka, P. (2026). Virtual AI assistants in the manufacturing industry: Innovation diffusion perspective. Procedia Computer Science, 277, 1806–1817.

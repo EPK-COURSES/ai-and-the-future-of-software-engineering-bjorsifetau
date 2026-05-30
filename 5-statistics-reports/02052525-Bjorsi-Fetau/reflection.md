@@ -21,3 +21,10 @@ I think this research shows that AI can play an important role in creating more 
 At the same time, I understand that AI systems require reliable data, proper monitoring, and secure infrastructure. Companies must ensure that AI is implemented responsibly and effectively.
 This research helped me understand that AI is not only a tool for automation but also a technology that can support sustainability, efficiency, and innovation across many industries in the future.
 
+## Personal Reflection
+
+After reading this research, I learned that AI assistants can play an important role in modern manufacturing environments. I was surprised by how AI can help workers complete tasks more efficiently by providing instructions, answering questions, and reducing mistakes during production processes.
+I think AI assistants can be very useful because they save time and make information easier to access. Instead of searching through documents or asking supervisors for help, workers can receive immediate guidance from the AI system. This can improve productivity and support employee training.
+However, I also believe companies must ensure that AI systems are reliable, secure, and easy to use. Workers need to trust the technology before it can be fully adopted in industrial environments.
+This research helped me understand that AI is becoming an important tool for collaboration between humans and technology. In the future, AI assistants will likely become more common in manufacturing and help improve efficiency, learning, and workplace performance.
+
