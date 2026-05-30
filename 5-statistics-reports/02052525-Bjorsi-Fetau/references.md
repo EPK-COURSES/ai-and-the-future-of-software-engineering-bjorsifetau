@@ -1,2 +1,3 @@
 Vyhmeister, E., & G Castane, G. (2026). When Industry meets trustworthy AI: a systematic review of AI for Industry 5.0. AI and Ethics, 6(2), 200.
 Lee, J., Davari, H., Singh, J., & Pandhare, V. (2018). Industrial artificial intelligence for Industry 4.0-based manufacturing systems. Manufacturing Letters, 18, 20–23.
+Leutner, L. A., Leyendecker, L., Motz, M., Brandstätter, T. C., Heymann, H., & Schmitt, R. H. (2026). Framework for developing trustworthy industrial AI applications. Procedia CIRP, 138, 72–77.

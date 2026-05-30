@@ -8,3 +8,8 @@ After reading this research, I learned that artificial intelligence is becoming 
 I think Industrial AI offers many benefits because it can increase efficiency, reduce costs, and improve product quality. The combination of AI, big data, cloud computing, and smart manufacturing technologies can help industries become more competitive and innovative.
 However, I also understand that AI systems require accurate data, proper monitoring, and strong cybersecurity to work effectively. If the data is incorrect or systems are not secure, AI may produce unreliable results and create risks for companies.
 This research helped me understand that AI is not only changing software engineering but also transforming entire industries. In the future, professionals will need both technical skills and an understanding of AI technologies to work successfully alongside intelligent systems.
+
+## Personal Reflection
+After reading this research, I learned that successful AI adoption is not only about improving productivity but also about building trust in AI systems. I was surprised by the number of challenges companies face when implementing AI, including data quality, transparency, and security issues.
+I think the idea of trustworthy AI is very important because people need to understand and trust AI systems before they can rely on them. AI can help organizations become more efficient and productive, but it must also be safe and reliable.
+This research helped me understand that the future of AI depends not only on technological improvements but also on responsible development and proper management. In my opinion, software engineers and AI developers will play an important role in ensuring that AI systems remain trustworthy and beneficial for society.
