@@ -3,3 +3,4 @@ Lee, J., Davari, H., Singh, J., & Pandhare, V. (2018). Industrial artificial int
 Leutner, L. A., Leyendecker, L., Motz, M., Brandstätter, T. C., Heymann, H., & Schmitt, R. H. (2026). Framework for developing trustworthy industrial AI applications. Procedia CIRP, 138, 72–77.
 Zuberi, M. J. S., Laarabi, H., Smith, S., & Shehabi, A. (2026). Can AI be energy positive in cement manufacturing? Evaluating AI-driven efficiency through a first-order framework and case study. Energy and AI.
 Hakanen, T., Goriachev, V., & Tikka, P. (2026). Virtual AI assistants in the manufacturing industry: Innovation diffusion perspective. Procedia Computer Science, 277, 1806–1817.
+Van den Eijnde, W., Voet, I., & Dijkstra, K. (2026). From intention to implementation: A UTAUT-based study on AI adoption in industry. Procedia Computer Science, 277, 1528–1537.
