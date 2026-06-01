@@ -4,3 +4,4 @@ Leutner, L. A., Leyendecker, L., Motz, M., Brandstätter, T. C., Heymann, H., & 
 Zuberi, M. J. S., Laarabi, H., Smith, S., & Shehabi, A. (2026). Can AI be energy positive in cement manufacturing? Evaluating AI-driven efficiency through a first-order framework and case study. Energy and AI.
 Hakanen, T., Goriachev, V., & Tikka, P. (2026). Virtual AI assistants in the manufacturing industry: Innovation diffusion perspective. Procedia Computer Science, 277, 1806–1817.
 Van den Eijnde, W., Voet, I., & Dijkstra, K. (2026). From intention to implementation: A UTAUT-based study on AI adoption in industry. Procedia Computer Science, 277, 1528–1537.
+Kemell, K.-K., Saarikallio, M., Nguyen-Duc, A., & Abrahamsson, P. (2025). Still just personal assistants? – A multiple case study of generative AI adoption in software organizations. Information and Software Technology, 186, 107805.

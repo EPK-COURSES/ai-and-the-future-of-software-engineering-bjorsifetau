@@ -35,3 +35,11 @@ I think the study demonstrates that practical experience and good data managemen
 The findings also showed that positive attitudes toward AI are not enough. Organizations must invest in data quality, employee knowledge, and real-world AI experience before they can fully benefit from AI systems.
 This research helped me understand that AI adoption is a gradual process that requires preparation and continuous learning. As AI becomes more common in industry, companies that develop these capabilities will be better positioned to take advantage of its benefits.
 
+##7.Personal Reflection
+
+This study helped me understand how quickly generative AI is being adopted in software organizations. I found it interesting that many companies are already using AI tools for coding, debugging, documentation, and other software development tasks.
+One thing that stood out to me was that AI is mainly being used as a personal assistant rather than replacing developers. AI can help programmers work faster and solve problems more efficiently, but human knowledge and decision-making are still very important.
+The research also showed that companies face challenges related to data privacy, security, and the reliability of AI-generated content. This reminded me that AI should be used carefully and that developers must review AI outputs before using them in real projects.
+This research helped me understand that AI is becoming a normal part of software engineering, and I believe its role will continue to grow as organizations gain more experience with these technologies.
+
+
