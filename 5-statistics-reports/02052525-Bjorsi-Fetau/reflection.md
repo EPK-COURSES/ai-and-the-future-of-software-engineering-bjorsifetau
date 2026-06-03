@@ -42,4 +42,10 @@ One thing that stood out to me was that AI is mainly being used as a personal as
 The research also showed that companies face challenges related to data privacy, security, and the reliability of AI-generated content. This reminded me that AI should be used carefully and that developers must review AI outputs before using them in real projects.
 This research helped me understand that AI is becoming a normal part of software engineering, and I believe its role will continue to grow as organizations gain more experience with these technologies.
 
+##.8Personal Reflection
+One of the most interesting findings from this study was that AI literacy alone does not automatically make people trust AI-generated news. Instead, trust is strongly influenced by people's attitudes toward AI.
+I think this shows that understanding technology is important, but personal perceptions and experiences also play a major role. People who have positive experiences with AI are more likely to trust the information it provides.
+The research also reminded me that AI-generated content is not always perfect. Even though AI can provide information quickly, users should still think critically and verify important information when necessary.
+This study helped me understand that trust in AI is built through both knowledge and experience. As AI becomes more common in daily life, improving AI literacy and promoting responsible AI use will become increasingly important.
+
 

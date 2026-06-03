@@ -5,3 +5,4 @@ Zuberi, M. J. S., Laarabi, H., Smith, S., & Shehabi, A. (2026). Can AI be energy
 Hakanen, T., Goriachev, V., & Tikka, P. (2026). Virtual AI assistants in the manufacturing industry: Innovation diffusion perspective. Procedia Computer Science, 277, 1806–1817.
 Van den Eijnde, W., Voet, I., & Dijkstra, K. (2026). From intention to implementation: A UTAUT-based study on AI adoption in industry. Procedia Computer Science, 277, 1528–1537.
 Kemell, K.-K., Saarikallio, M., Nguyen-Duc, A., & Abrahamsson, P. (2025). Still just personal assistants? – A multiple case study of generative AI adoption in software organizations. Information and Software Technology, 186, 107805.
+Goyanes, M., Utz, S., & Gil de Zúñiga, H. (2026). Trust in AI news, AI literacy, and the mediating role of artificial intelligence attitudes: A longitudinal study across diverse societies. Computers in Human Behavior: Artificial Humans, 7, 100279. 
