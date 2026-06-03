@@ -48,4 +48,9 @@ I think this shows that understanding technology is important, but personal perc
 The research also reminded me that AI-generated content is not always perfect. Even though AI can provide information quickly, users should still think critically and verify important information when necessary.
 This study helped me understand that trust in AI is built through both knowledge and experience. As AI becomes more common in daily life, improving AI literacy and promoting responsible AI use will become increasingly important.
 
+##9.Personal Reflection
+What interested me most about this study was how AI is changing the role of software developers. Before reading this paper, I thought AI tools were mainly used to help programmers write code faster. However, I learned that developers now have additional responsibilities such as reviewing AI-generated code, identifying security risks, and making important decisions about software quality.
+In my opinion, AI should be used as a tool to support developers rather than replace them. While AI can improve productivity and reduce repetitive work, human knowledge and critical thinking are still necessary to ensure software is secure and reliable.
+I also think the concerns about becoming too dependent on AI are valid. Developers should continue learning programming concepts and problem-solving skills instead of relying completely on AI-generated solutions.
+This research helped me understand that the future of software engineering will involve strong collaboration between humans and AI. I believe developers who learn how to work effectively with AI tools will be more successful in the future while still maintaining their technical expertise.
 
