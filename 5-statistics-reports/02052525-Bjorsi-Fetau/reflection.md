@@ -54,3 +54,9 @@ In my opinion, AI should be used as a tool to support developers rather than rep
 I also think the concerns about becoming too dependent on AI are valid. Developers should continue learning programming concepts and problem-solving skills instead of relying completely on AI-generated solutions.
 This research helped me understand that the future of software engineering will involve strong collaboration between humans and AI. I believe developers who learn how to work effectively with AI tools will be more successful in the future while still maintaining their technical expertise.
 
+##10.Personal Reflection
+I was surprised by how important trust is when people work with AI systems. Before reading this paper, I thought that the main goal of AI was to improve productivity and automate tasks. However, this study showed that trust, communication, and transparency are just as important as technical performance.
+In my opinion, people will only use AI effectively if they understand how it works and feel confident in its recommendations. If users do not trust the system, they may ignore useful guidance or hesitate to use the technology.
+I also think that AI should support workers rather than replace them. The virtual assistant described in this research helped users learn and perform tasks more efficiently, but human judgment and decision-making were still necessary.
+This paper changed my perspective because I now understand that successful AI adoption depends not only on advanced technology but also on building trust between humans and intelligent systems. I believe trust will become even more important as AI continues to be integrated into workplaces and everyday life.
+
